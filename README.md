@@ -40,29 +40,40 @@ Repositório para a disciplina MAC0214, para o registro do progresso de programa
 ----
 
 ## 26 de setembro de 2023 - Codeforces Round 900 (Div. 3) - 2 horas
+
 Acredito que desempenhei relativamente bem. Apesar disso, demorei um pouco para resolver as questões, em especial o problema D.
+
 ----
 
 ## 29 de setembro de 2023 - 2018 German Collegiate Programming Contest (GCPC 18) - 5 horas
+
 Tive que realizar esse contest de maneira online (Eu fiz ele de forma remota, enquanto meus colegas foram ao IME), por esse motivo, acredito ter passado mais problemas que o normal. Em especial, nesse contest o site Codeforces apresentou problemas, o que fez com que levassemos mais tempo para conseguir mandar os provlemas. Em geral, demorei para passar o primeiro problema, que era relativamente simples e fiquei boa parte da prova preso em várias contas, o que me levou a demorar para passar o próximo problema. Acredito que com maior agilidade eu poderia ter resolvido o problema B de geometria. De modo geral, nosso time desempenhou de maneira razoável e estamos aprendendo a administrar melhor os problemas. 
+
 ----
 
 ## 30 de setembro de 2023 - Codeforces Round 901 (Div. 2) - 2 horas
+
 Acredito que desempenhei muito bem nesse contest, pela primeira vez consegui resolver 4 problemas em um Div. 2 além de ter ficado na posição global 379.
+
 ----
 
 ## 06 de outubro de 2023 - 4 horas
+
 ----
 
 ## 07 de outubro de 2023 - Meta Hacker Cup Round 1 - 3 horas e 30 minutos
+
 Acredito que consegui desempenhar bem, houveram alguns problemas na submissão do ocontest que podem ter atrapalhado um pouco o andamento da prova. No final, consegui resolver muitos problemas, mas acredito que com mais tempo poderia ter resolvido os problemas B2 e D.
+
 ----
 
 ## 20 de outubro de 2023 - 2020-2021 ICPC Southwestern European Regional Contest (SWERC 2020) - 5 horas
 ----
 
 ## 21 de outubro de 2023 - Meta Hacker Cup Round 2 - 3 horas
+
 Acredito que poderia ter desempenhado melhor, apesar de ter conseguido resolver o problema A2, o limite de memória da stack não me permitiu resolver para valores grandes. Acredito que isso prejudicou um pouco o andamento do resto da prova. No final, acredito ter aprendido bastante e estar mais preparado para lidar com essas questões.
+
 ----
 
 ## 27 de outubro de 2023 - Upsolves, discussões e muitos diagramas de voronoi
