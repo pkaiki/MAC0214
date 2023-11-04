@@ -80,4 +80,4 @@ Acredito que poderia ter desempenhado melhor, apesar de ter conseguido resolver 
 Nesse dia decidimos trocar o contest por uma conversa, falamos sobre o nosso desempenho, nos ultimos contests e nas maratona além de planos futuros como a possibilidade de participar da próxima Summer School (Curso de verão com foco para maratonas de programação). Aproveitamos o tempo para upsolvar questões que julgamos ser melhor rever em grupo. Além disso, aproveitamos o espaço para pensar em um algorítimo, relativamente complexo, que já haviamos tentado usar durante os treinos, o algorítimo de Fortune para gerar Diagramas de Voronoi e a Triangulação de Delaunay. Esse processo levou aproximadamente 5 horas.
 
 
-## Total de horas: 6
+## Total de horas: XX
