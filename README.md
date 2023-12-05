@@ -1,10 +1,11 @@
 # MAC0214
 Repositório para a disciplina MAC0214, para o registro do progresso de programação competitiva no segundo semestre de 2023
-Repository for subject MAC0214, for recording competitive programming progress in the second half of 2023
 
 ----
 
 ## 11 de agosto de 2023 - 2016 USP Try-outs - 5 horas
+
+Simulados a prova em time no gym do codeforces. Tinhamos como objetivo nos preparar para a Seletiva USP 2023. Acredito que não desempenhamos tão bem quanto esperavamos nesse contest, resolvemos poucos problemas em geral e levamos muito tempo para resolver os últimos. Sobre a minha performance individual, acredito que não consegui trazer grandes ideias, apesar de ter resolvido alguns problemas. Como ponto positivo, acho que conseguimos organizar nos organizar bem no final para passar o último problema: Não tive ideias para ele duarante muito tempo, mas então, percebendo que não haviamos muito tempo, decidimos focar nessa questão. No final, conseguimos passar mais este problema juntando nossas ideias e pensando no problema em conjunto.
 
 ----
 
@@ -52,15 +53,11 @@ I believe I performed relatively well. Despite this, it took me a while to resol
 
 Tive que realizar esse contest de maneira online (Eu fiz ele de forma remota, enquanto meus colegas foram ao IME), por esse motivo, acredito ter passado mais problemas que o normal. Em especial, nesse contest o site Codeforces apresentou problemas, o que fez com que levassemos mais tempo para conseguir mandar os provlemas. Em geral, demorei para passar o primeiro problema, que era relativamente simples e fiquei boa parte da prova preso em várias contas, o que me levou a demorar para passar o próximo problema. Acredito que com maior agilidade eu poderia ter resolvido o problema B de geometria. De modo geral, nosso time desempenhou de maneira razoável e estamos aprendendo a administrar melhor os problemas. 
 
-I had to carry out this contest online (I did it remotely, while my colleagues went to the IME), for this reason, I believe I had more problems than usual. In particular, in this contest the Codeforces website had problems, which meant that it took us longer to send the issues. In general, it took me a while to pass the first problem, which was relatively simple and I spent a good part of the test stuck on several accounts, which took me a while to pass the next problem. I believe that with greater agility I could have solved geometry problem B. Overall, our team performed reasonably well and we are learning to manage problems better.
-
 ----
 
 ## 30 de setembro de 2023 - Codeforces Round 901 (Div. 2) - 2 horas
 
 Acredito que desempenhei muito bem nesse contest, pela primeira vez consegui resolver 4 problemas em um Div. 2 além de ter ficado na posição global 379.
-
-I believe I performed very well in this contest, for the first time I managed to solve 4 problems in a Div. 2 in addition to being in global position 379.
 
 ----
 
@@ -72,8 +69,6 @@ I believe I performed very well in this contest, for the first time I managed to
 
 Acredito que consegui desempenhar bem, houveram alguns problemas na submissão do ocontest que podem ter atrapalhado um pouco o andamento da prova. No final, consegui resolver muitos problemas, mas acredito que com mais tempo poderia ter resolvido os problemas B2 e D.
 
-I believe I managed to perform well, there were some problems submitting the ocontest that may have hindered the progress of the test a little. In the end, I managed to solve many problems, but I believe that with more time I could have solved problems B2 and D.
-
 ----
 
 ## 20 de outubro de 2023 - 2020-2021 ICPC Southwestern European Regional Contest (SWERC 2020) - 5 horas
@@ -83,14 +78,29 @@ I believe I managed to perform well, there were some problems submitting the oco
 
 Acredito que poderia ter desempenhado melhor, apesar de ter conseguido resolver o problema A2, o limite de memória da stack não me permitiu resolver para valores grandes. Acredito que isso prejudicou um pouco o andamento do resto da prova. No final, acredito ter aprendido bastante e estar mais preparado para lidar com essas questões.
 
-I believe I could have performed better, although I managed to solve problem A2, the stack's memory limit did not allow me to solve for large values. I believe this affected the rest of the race a little. In the end, I believe I learned a lot and am more prepared to deal with these issues.
-
 ----
 
 ## 27 de outubro de 2023 - Upsolves, discussões e muitos diagramas de voronoi
 Nesse dia decidimos trocar o contest por uma conversa, falamos sobre o nosso desempenho, nos ultimos contests e nas maratona além de planos futuros como a possibilidade de participar da próxima Summer School (Curso de verão com foco para maratonas de programação). Aproveitamos o tempo para upsolvar questões que julgamos ser melhor rever em grupo. Além disso, aproveitamos o espaço para pensar em um algorítimo, relativamente complexo, que já haviamos tentado usar durante os treinos, o algorítimo de Fortune para gerar Diagramas de Voronoi e a Triangulação de Delaunay.
 
-That day we decided to exchange the contest for a conversation, we talked about our performance, the last contests and the marathon, as well as future plans such as the possibility of participating in the next Summer School (Summer course with a focus on programming marathons). We take advantage of the time to resolve issues that we think would be best to review as a group. Furthermore, we took advantage of the space to think about a relatively complex algorithm that we had already tried to use during training, the Fortune algorithm for generating Voronoi Diagrams and Delaunay Triangulation.
+----
+
+## 10 de novembro de 2023 - IX Maratona Mineira - 5 horas
+
+Simulei esse contest com meu time no gym do codeforces. Nesse dia, decidimos tentar fazer um contest mais fácil (nível 3 estrelas do codeforces) por sugestão do Otavio. Acredito que desempanhamos bem, mesmo considerando que o contest estava mais fácil. Em geral, nossas 3 primeiras horas de prova se desenvolveram muito bem, conseguimos nos organizar, pensar rápido, e passar vários problemas. Nas ultimas 2 horas o ritmo diminuiu um pouco, mas, ainda assim, acredito que não fomos mal.
 
 
-## Total de horas: 65
+## 17 de novembro de 2023 - Codeforces Round 901 (Div. 2) - 2 horas
+
+Acredito que, no geral, fui bem no contest. Comecei bem o contest, mas me enrrolei com o problema C, o que me fez aumentar minha penalidade e também fez com que não sobrasse muito tempo para tentar o problema G. Apesar disso, resolvi uma boa quantidade de problemas.
+
+----
+
+## 30 de novembro de 2023 - Codeforces Round 912 (Div. 2) - 2 horas
+
+Não fui mal nesse contest, mas também acho que poderia ter ido melhor. Pela primeira vez, comecei pelo problema C. Em seguida, resolvi o problema A no tempo esperado e demorei para ter a ideia do problema B, além de demorar para escrever o código corretamente. Tive a ideia para resolver o problema bem rápido, mas demorei para fazer o código, acredito que a partir de agora quero tentar melhorar minhas habilidades de organização de código e velocidade.
+
+
+
+
+## Total de horas: 74
