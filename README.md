@@ -4,7 +4,6 @@ Repositório para a disciplina MAC0214, para o registro do progresso de programa
 ----
 
 ## 11 de agosto de 2023 - 2016 USP Try-outs - 5 horas
-### Prova:
 
 Simulados a prova em time no gym do codeforces. Tinhamos como objetivo nos preparar para a Seletiva USP 2023. Acredito que não desempenhamos tão bem quanto esperavamos nesse contest, resolvemos poucos problemas em geral e levamos muito tempo para resolver os últimos. Sobre a minha performance individual, acredito que não consegui trazer grandes ideias, apesar de ter resolvido alguns problemas. Como ponto positivo, acho que conseguimos organizar nos organizar bem no final para passar o último problema: Não tive ideias para ele duarante muito tempo, mas então, percebendo que não haviamos muito tempo, decidimos focar nessa questão. No final, conseguimos passar mais este problema juntando nossas ideias e pensando no problema em conjunto.
 
