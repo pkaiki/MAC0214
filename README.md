@@ -9,7 +9,7 @@ Simulados a prova em time no gym do codeforces. Tinhamos como objetivo nos prepa
 
 ----
 
-## 12 de agosto de 2023 - 
+## 12 de agosto de 2023 - Seletiva USP 2023 - 5 horas
 
 ----
 
@@ -49,8 +49,6 @@ Simulados a prova em time no gym do codeforces. Tinhamos como objetivo nos prepa
 
 Acredito que desempenhei relativamente bem. Apesar disso, demorei um pouco para resolver as questões, em especial o problema D.
 
-I believe I performed relatively well. Despite this, it took me a while to resolve the questions, especially problem D.
-
 ----
 
 ## 29 de setembro de 2023 - 2018 German Collegiate Programming Contest (GCPC 18) - 5 horas
@@ -65,7 +63,7 @@ Acredito que desempenhei muito bem nesse contest, pela primeira vez consegui res
 
 ----
 
-## 06 de outubro de 2023 - 4 horas
+## 06 de outubro de 2023 - 2020-2021 ACM-ICPC Latin American Regional Programming Contest - 4 horas
 
 ----
 
@@ -84,7 +82,7 @@ Acredito que poderia ter desempenhado melhor, apesar de ter conseguido resolver 
 
 ----
 
-## 27 de outubro de 2023 - Upsolves, discussões e muitos diagramas de voronoi
+## 27 de outubro de 2023 - Upsolves, discussões e muitos diagramas de voronoi - 0 horas contadas
 Nesse dia decidimos trocar o contest por uma conversa, falamos sobre o nosso desempenho, nos ultimos contests e nas maratona além de planos futuros como a possibilidade de participar da próxima Summer School (Curso de verão com foco para maratonas de programação). Aproveitamos o tempo para upsolvar questões que julgamos ser melhor rever em grupo. Além disso, aproveitamos o espaço para pensar em um algorítimo, relativamente complexo, que já haviamos tentado usar durante os treinos, o algorítimo de Fortune para gerar Diagramas de Voronoi e a Triangulação de Delaunay.
 
 ----
@@ -100,11 +98,8 @@ Acredito que, no geral, fui bem no contest. Comecei bem o contest, mas me enrrol
 
 ----
 
-## 30 de novembro de 2023 - Codeforces Round 912 (Div. 2) - 2 horas
+## 30 de novembro de 2023 - Codeforces Round 912 (Div. 2) - 4 horas (2h + 2h upsolve)
 
 Não fui mal nesse contest, mas também acho que poderia ter ido melhor. Pela primeira vez, comecei pelo problema C. Em seguida, resolvi o problema A no tempo esperado e demorei para ter a ideia do problema B, além de demorar para escrever o código corretamente. Tive a ideia para resolver o problema bem rápido, mas demorei para fazer o código, acredito que a partir de agora quero tentar melhorar minhas habilidades de organização de código e velocidade.
-
-
-
 
 ## Total de horas: 74
