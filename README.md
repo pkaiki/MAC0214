@@ -27,7 +27,7 @@ Acredito que desempenhei relativamente bem. Consegui recuperar meu rating após 
 
 ----
 
-## 25 de agosto de 2023 - 2022-2023 ACM-ICPC Latin American Regional Programming Contest - 5 horas
+## 25 de agosto de 2023 - 2022-2023 ACM-ICPC Latin American Regional Programming Contest - 10 horas (5h + 5h upsolve)
 
 ----
 
