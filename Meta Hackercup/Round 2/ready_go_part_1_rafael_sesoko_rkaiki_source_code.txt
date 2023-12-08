@@ -1,0 +1,63 @@
+#include <bits/stdc++.h>
+#define int long long
+using namespace std;
+
+const int MAXN = 100;
+int R, C;
+char M[MAXN][MAXN];
+bool vis[MAXN][MAXN];
+set<pair<int, int>> st;
+
+int di[4] = {+1, 0, -1, 0};
+int dj[4] = {0, +1, 0, -1};
+
+void dfs(int i, int j){
+  if(M[i][j] != 'W') return;
+  vis[i][j] = true;
+  for(int it=0; it<4; it++){
+    int ii = i + di[it], jj = j + dj[it];
+    if(ii >= R || jj >= C || ii < 0 || jj < 0) continue;
+    if(M[ii][jj] == 'B') continue;
+    if(M[ii][jj] == '.'){
+      st.insert({ii, jj});
+      continue;
+    }
+    if(vis[ii][jj]) continue;
+    dfs(ii, jj);
+  }
+}
+
+void solve(){
+  memset(M, 0, sizeof(M));
+  memset(vis, 0, sizeof(vis));
+
+  cin >> R >> C;
+  for(int i=0; i<R; i++){
+    for(int j=0; j<C; j++){
+      cin >> M[i][j];
+    }
+  }
+
+  int sum = 0;
+  
+  for(int i=0; i<R; i++){
+    for(int j=0; j<C; j++){
+      st.clear();
+      if(!vis[i][j]) dfs(i, j);
+      if(st.size() == 1) sum++;
+    }
+  }
+
+  if(sum > 0) cout << "YES\n";
+  else cout << "NO\n";
+}
+
+signed main(){
+  ios_base::sync_with_stdio(false); cin.tie(NULL);
+  int t; cin >> t;
+  for(int i=1; i<=t; i++){
+    cout << "Case #" << i << ": ";
+    solve();
+  }
+  return 0;
+}
