@@ -21,7 +21,9 @@ Simulados a prova em time no gym do codeforces. Tinhamos como objetivo nos prepa
 
 ----
 
-## 24 de agosto de 2023 - Codeforces Round 893 (Div. 2) - 2 horas
+## 24 de agosto de 2023 - Codeforces Round 894 (Div. 3) - 2 horas
+
+Acredito que desempenhei relativamente bem. Consegui recuperar meu rating após esse contest
 
 ----
 
