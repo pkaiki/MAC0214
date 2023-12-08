@@ -39,7 +39,7 @@ Acredito que desempenhei relativamente bem. Consegui recuperar meu rating após 
 
 ----
 
-## 22 de setembro de 2023 - 2023 Argentinian Programming Tournament (TAP) - 5 horas
+## 22 de setembro de 2023 - 2023 Argentinian Programming Tournament (TAP) - 10 horas (5h + 5h upsolve)
 
 ----
 
