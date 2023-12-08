@@ -94,7 +94,7 @@ Nesse dia decidimos trocar o contest por uma conversa, falamos sobre o nosso des
 Simulei esse contest com meu time no gym do codeforces. Nesse dia, decidimos tentar fazer um contest mais fácil (nível 3 estrelas do codeforces) por sugestão do Otavio. Acredito que desempanhamos bem, mesmo considerando que o contest estava mais fácil. Em geral, nossas 3 primeiras horas de prova se desenvolveram muito bem, conseguimos nos organizar, pensar rápido, e passar vários problemas. Nas ultimas 2 horas o ritmo diminuiu um pouco, mas, ainda assim, acredito que não fomos mal.
 
 
-## 17 de novembro de 2023 - Codeforces Round 901 (Div. 2) - 2 horas
+## 17 de novembro de 2023 - Codeforces Round 909 (Div. 3) - 2 horas
 
 Acredito que, no geral, fui bem no contest. Comecei bem o contest, mas me enrrolei com o problema C, o que me fez aumentar minha penalidade e também fez com que não sobrasse muito tempo para tentar o problema G. Apesar disso, resolvi uma boa quantidade de problemas.
 
