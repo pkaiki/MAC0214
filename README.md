@@ -43,7 +43,7 @@ Acredito que desempenhei relativamente bem. Consegui recuperar meu rating após 
 
 ----
 
-## 25 de setembro de 2023 - Codeforces Round 893 (Div. 2) - 2 horas
+## 25 de setembro de 2023 - Codeforces Round 899 (Div. 2) - 2 horas
 
 ----
 
