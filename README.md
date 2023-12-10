@@ -53,7 +53,7 @@ Acredito que desempenhei relativamente bem. Apesar disso, demorei um pouco para 
 
 ----
 
-## 29 de setembro de 2023 - 2018 German Collegiate Programming Contest (GCPC 18) - 5 horas
+## 29 de setembro de 2023 - 2018 German Collegiate Programming Contest (GCPC 18) - 10 horas (5h + 5h upsolve)
 
 Tive que realizar esse contest de maneira online (Eu fiz ele de forma remota, enquanto meus colegas foram ao IME), por esse motivo, acredito ter passado mais problemas que o normal. Em especial, nesse contest o site Codeforces apresentou problemas, o que fez com que levassemos mais tempo para conseguir mandar os provlemas. Em geral, demorei para passar o primeiro problema, que era relativamente simples e fiquei boa parte da prova preso em várias contas, o que me levou a demorar para passar o próximo problema. Acredito que com maior agilidade eu poderia ter resolvido o problema B de geometria. De modo geral, nosso time desempenhou de maneira razoável e estamos aprendendo a administrar melhor os problemas. 
 
@@ -104,4 +104,4 @@ Acredito que, no geral, fui bem no contest. Comecei bem o contest, mas me enrrol
 
 Não fui mal nesse contest, mas também acho que poderia ter ido melhor. Pela primeira vez, comecei pelo problema C. Em seguida, resolvi o problema A no tempo esperado e demorei para ter a ideia do problema B, além de demorar para escrever o código corretamente. Tive a ideia para resolver o problema bem rápido, mas demorei para fazer o código, acredito que a partir de agora quero tentar melhorar minhas habilidades de organização de código e velocidade.
 
-## Total de horas: 86
+## Total de horas: 91
