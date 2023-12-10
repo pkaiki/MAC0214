@@ -105,3 +105,5 @@ Acredito que, no geral, fui bem no contest. Comecei bem o contest, mas me enrrol
 Não fui mal nesse contest, mas também acho que poderia ter ido melhor. Pela primeira vez, comecei pelo problema C. Em seguida, resolvi o problema A no tempo esperado e demorei para ter a ideia do problema B, além de demorar para escrever o código corretamente. Tive a ideia para resolver o problema bem rápido, mas demorei para fazer o código, acredito que a partir de agora quero tentar melhorar minhas habilidades de organização de código e velocidade.
 
 ## Total de horas: 96 horas e 30 minutos
+
+Handle no codeforces: [rkaiki](https://codeforces.com/profile/rkaiki)
