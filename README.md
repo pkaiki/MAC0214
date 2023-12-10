@@ -35,7 +35,7 @@ Acredito que desempenhei relativamente bem. Consegui recuperar meu rating após 
 
 ----
 
-## 02 de setembro de 2023 - Fase subregional da Maratona SBC de Programação
+## 02 de setembro de 2023 - Fase subregional da Maratona SBC de Programação - 5 horas
 
 ----
 
