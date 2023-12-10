@@ -3,39 +3,65 @@ Repositório para a disciplina MAC0214, para o registro do progresso de programa
 
 ----
 
-## 11 de agosto de 2023 - 2016 USP Try-outs - 5 horas
+## 11 de agosto de 2023 - [2016 USP Try-outs](https://codeforces.com/gym/101064) - 5 horas
 
 Simulados a prova em time no gym do codeforces. Tinhamos como objetivo nos preparar para a Seletiva USP 2023. Acredito que não desempenhamos tão bem quanto esperavamos nesse contest, resolvemos poucos problemas em geral e levamos muito tempo para resolver os últimos. Sobre a minha performance individual, acredito que não consegui trazer grandes ideias, apesar de ter resolvido alguns problemas. Como ponto positivo, acho que conseguimos organizar nos organizar bem no final para passar o último problema: Não tive ideias para ele duarante muito tempo, mas então, percebendo que não haviamos muito tempo, decidimos focar nessa questão. No final, conseguimos passar mais este problema juntando nossas ideias e pensando no problema em conjunto.
 
-----
-
-## 12 de agosto de 2023 - Seletiva USP 2023 - 5 horas
-
-----
-
-## 15 de agosto de 2023 - Codeforces Round 893 (Div. 2) - 2 horas
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2016%20USP%20Try-outs)
 
 ----
 
-## 18 de agosto de 2023 - 2023 Jiangsu Collegiate Programming Contest - 5 horas
+## 12 de agosto de 2023 - [Seletiva USP 2023](https://codeforces.com/gym/104505) - 5 horas
+
+Eu e meu time (travazapp) participamos da Seletiva Usp 2023. Como resultado, ficamos em terceiro lugar.
+
+Os códigos desse contest não ficam disponíveis para o público, mas é possível ver o progresso do time durante a prova na página do codeforces.
 
 ----
 
-## 24 de agosto de 2023 - Codeforces Round 894 (Div. 3) - 2 horas
+## 15 de agosto de 2023 - [Codeforces Round 893 (Div. 2)](https://codeforces.com/contest/1858) - 2 horas
+
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20893%20(Div.%202))
+
+----
+
+## 18 de agosto de 2023 - [2023 Jiangsu Collegiate Programming Contest](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/2023-Jiangsu-Collegiate-Programming-Contest/) - 5 horas
+
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2023%20Jiangsu%20Collegiate%20Programming%20Contest)
+
+----
+
+## 24 de agosto de 2023 - [Codeforces Round 894 (Div. 3)](https://codeforces.com/contest/1862) - 2 horas
 
 Acredito que desempenhei relativamente bem. Consegui recuperar meu rating após esse contest
 
-----
-
-## 25 de agosto de 2023 - 2022-2023 ACM-ICPC Latin American Regional Programming Contest - 10 horas (5h + 5h upsolve)
-
-----
-
-## 01 de setembro de 2023 - 2022 Benelux Algorithm Programming Contest (BAPC 22) - 5 horas
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20894%20(Div.%203))
 
 ----
 
-## 02 de setembro de 2023 - Fase subregional da Maratona SBC de Programação - 5 horas
+## 25 de agosto de 2023 - [2022-2023 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/104252) - 10 horas (5h + 5h upsolve)
+
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2022-2023%20ACM-ICPC%20Latin%20American%20Regional%20Programming%20Contest)
+
+----
+
+## 01 de setembro de 2023 - [2022 Benelux Algorithm Programming Contest (BAPC 22)]((https://codeforces.com/gym/104020)) - 5 horas
+
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2022%20Benelux%20Algorithm%20Programming%20Contest%20(BAPC%2022))
+
+----
+
+## 02 de setembro de 2023 - [Fase subregional da Maratona SBC de Programação](https://maratona.sbc.org.br/) - 5 horas
+
+Eu e meu time (travazapp) participamos da Fase subregional da Maratona. Como resultado, ficamos em terceiro lugar na sede de São Paulo e na posicão 28 no Brasil, infelizmente, por pouco não conseguimos passar para a fase Nacional.
+
+Os códigos desse contest não ficam disponíveis para o público, mas é possível ver o progresso do time durante a prova na página do codeforces.
 
 ----
 
