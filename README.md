@@ -174,6 +174,6 @@ Não fui mal nesse contest, mas também acho que poderia ter ido melhor. Pela pr
 Links:
 [Código](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20912%20(Div.%202))
 
-## Total de horas: 98 horas e 30 minutos
+## Total de horas: 100 horas e 30 minutos
 
 Handle no codeforces: [rkaiki](https://codeforces.com/profile/rkaiki)
