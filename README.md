@@ -109,14 +109,14 @@ Links:
 Acredito que desempenhei muito bem nesse contest, pela primeira vez consegui resolver 4 problemas em um Div. 2 além de ter ficado na posição global 379.
 
 Links:
-[Código](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20901%20(Div.%202))
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20901%20(Div.%202))
 
 ----
 
 ## 06 de outubro de 2023 - [2020-2021 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103185) - 4 horas
 
 Links:
-[Código](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2020-2021%20ACM-ICPC%20Latin%20American%20Regional%20Programming%20Contest)
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2020-2021%20ACM-ICPC%20Latin%20American%20Regional%20Programming%20Contest)
 
 ----
 
@@ -125,14 +125,14 @@ Links:
 Acredito que consegui desempenhar bem, houveram alguns problemas na submissão do ocontest que podem ter atrapalhado um pouco o andamento da prova. No final, consegui resolver muitos problemas, mas acredito que com mais tempo poderia ter resolvido os problemas B2 e D.
 
 Links:
-[Código](https://github.com/pkaiki/MAC0214/tree/main/Meta%20Hackercup/Round%201)
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Meta%20Hackercup/Round%201)
 
 ----
 
 ## 20 de outubro de 2023 - [2020-2021 ICPC Southwestern European Regional Contest (SWERC 2020)](https://codeforces.com/gym/103081) - 10 horas (5h + 5h upsolve)
 
 Links:
-[Código](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2020-2021%20ICPC%20Southwestern%20European%20Regional%20Contest%20(SWERC%202020))
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2020-2021%20ICPC%20Southwestern%20European%20Regional%20Contest%20(SWERC%202020))
 
 ----
 
@@ -141,7 +141,7 @@ Links:
 Acredito que poderia ter desempenhado melhor, apesar de ter conseguido resolver o problema A2, o limite de memória da stack não me permitiu resolver para valores grandes. Acredito que isso prejudicou um pouco o andamento do resto da prova. No final, acredito ter aprendido bastante e estar mais preparado para lidar com essas questões.
 
 Links:
-[Código](https://github.com/pkaiki/MAC0214/tree/main/Meta%20Hackercup/Round%202)
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Meta%20Hackercup/Round%202)
 
 ----
 
@@ -155,7 +155,7 @@ Nesse dia decidimos trocar o contest por uma conversa, falamos sobre o nosso des
 Simulei esse contest com meu time no gym do codeforces. Nesse dia, decidimos tentar fazer um contest mais fácil (nível 3 estrelas do codeforces) por sugestão do Otavio. Acredito que desempanhamos bem, mesmo considerando que o contest estava mais fácil. Em geral, nossas 3 primeiras horas de prova se desenvolveram muito bem, conseguimos nos organizar, pensar rápido, e passar vários problemas. Nas ultimas 2 horas o ritmo diminuiu um pouco, mas, ainda assim, acredito que não fomos mal.
 
 Links:
-[Código](https://github.com/pkaiki/MAC0214/tree/main/Grupo/IX%20Maratona%20Mineira)
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/IX%20Maratona%20Mineira)
 
 
 ## 17 de novembro de 2023 - [Codeforces Round 909 (Div. 3)](https://codeforces.com/contest/1899) - 2 horas
@@ -163,7 +163,7 @@ Links:
 Acredito que, no geral, fui bem no contest. Comecei bem o contest, mas me enrrolei com o problema C, o que me fez aumentar minha penalidade e também fez com que não sobrasse muito tempo para tentar o problema G. Apesar disso, resolvi uma boa quantidade de problemas.
 
 Links:
-[Código](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20909%20(Div.%203))
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20909%20(Div.%203))
 
 ----
 
@@ -172,7 +172,7 @@ Links:
 Não fui mal nesse contest, mas também acho que poderia ter ido melhor. Pela primeira vez, comecei pelo problema C. Em seguida, resolvi o problema A no tempo esperado e demorei para ter a ideia do problema B, além de demorar para escrever o código corretamente. Tive a ideia para resolver o problema bem rápido, mas demorei para fazer o código, acredito que a partir de agora quero tentar melhorar minhas habilidades de organização de código e velocidade.
 
 Links:
-[Código](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20912%20(Div.%202))
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20912%20(Div.%202))
 
 ## Total de horas: 100 horas e 30 minutos
 
