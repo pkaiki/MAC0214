@@ -27,6 +27,13 @@ Links:
 
 ----
 
+## 17 de agosto de 2023 - [Educational Codeforces Round 153 (Rated for Div. 2)](https://codeforces.com/contest/1860) - 2 horas
+
+Links:
+[Códigos]()
+
+----
+
 ## 18 de agosto de 2023 - [2023 Jiangsu Collegiate Programming Contest](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/2023-Jiangsu-Collegiate-Programming-Contest/) - 5 horas
 
 Links:
@@ -50,7 +57,7 @@ Links:
 
 ----
 
-## 01 de setembro de 2023 - [2022 Benelux Algorithm Programming Contest (BAPC 22)]((https://codeforces.com/gym/104020)) - 5 horas
+## 01 de setembro de 2023 - [2022 Benelux Algorithm Programming Contest (BAPC 22)](https://codeforces.com/gym/104020) - 5 horas
 
 Links:
 [Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2022%20Benelux%20Algorithm%20Programming%20Contest%20(BAPC%2022))
@@ -65,33 +72,51 @@ Os códigos desse contest não ficam disponíveis para o público, mas é possí
 
 ----
 
-## 22 de setembro de 2023 - 2023 Argentinian Programming Tournament (TAP) - 10 horas (5h + 5h upsolve)
+## 22 de setembro de 2023 - [2023 Argentinian Programming Tournament (TAP)](https://github.com/otavioolsilva/MAC0214/tree/main/Grupo/2023-TAP/) - 10 horas (5h + 5h upsolve)
+
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2023%20Argentinian%20Programming%20Tournament%20(TAP))
 
 ----
 
-## 25 de setembro de 2023 - Codeforces Round 899 (Div. 2) - 2 horas
+## 25 de setembro de 2023 - [Codeforces Round 899 (Div. 2)](https://codeforces.com/contest/1882) - 2 horas
+
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20899%20(Div.%202))
 
 ----
 
-## 26 de setembro de 2023 - Codeforces Round 900 (Div. 3) - 2 horas
+## 26 de setembro de 2023 - [Codeforces Round 900 (Div. 3)](https://codeforces.com/contest/1878) - 2 horas
 
 Acredito que desempenhei relativamente bem. Apesar disso, demorei um pouco para resolver as questões, em especial o problema D.
 
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20900%20(Div.%203))
+
 ----
 
-## 29 de setembro de 2023 - 2018 German Collegiate Programming Contest (GCPC 18) - 10 horas (5h + 5h upsolve)
+## 29 de setembro de 2023 - [2018 German Collegiate Programming Contest (GCPC 18)](https://codeforces.com/gym/102021) - 10 horas (5h + 5h upsolve)
 
 Tive que realizar esse contest de maneira online (Eu fiz ele de forma remota, enquanto meus colegas foram ao IME), por esse motivo, acredito ter passado mais problemas que o normal. Em especial, nesse contest o site Codeforces apresentou problemas, o que fez com que levassemos mais tempo para conseguir mandar os provlemas. Em geral, demorei para passar o primeiro problema, que era relativamente simples e fiquei boa parte da prova preso em várias contas, o que me levou a demorar para passar o próximo problema. Acredito que com maior agilidade eu poderia ter resolvido o problema B de geometria. De modo geral, nosso time desempenhou de maneira razoável e estamos aprendendo a administrar melhor os problemas. 
 
+Links:
+[Códigos](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2023%20-%202018%20German%20Collegiate%20Programming%20Contest%20(GCPC%2018))
+
 ----
 
-## 30 de setembro de 2023 - Codeforces Round 901 (Div. 2) - 2 horas
+## 30 de setembro de 2023 - [Codeforces Round 901 (Div. 2)](https://codeforces.com/contest/1875) - 2 horas
 
 Acredito que desempenhei muito bem nesse contest, pela primeira vez consegui resolver 4 problemas em um Div. 2 além de ter ficado na posição global 379.
 
+Links:
+[Código](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20901%20(Div.%202))
+
 ----
 
-## 06 de outubro de 2023 - 2020-2021 ACM-ICPC Latin American Regional Programming Contest - 4 horas
+## 06 de outubro de 2023 - [2020-2021 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103185) - 4 horas
+
+Links:
+[Código](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2020-2021%20ACM-ICPC%20Latin%20American%20Regional%20Programming%20Contest)
 
 ----
 
@@ -99,14 +124,24 @@ Acredito que desempenhei muito bem nesse contest, pela primeira vez consegui res
 
 Acredito que consegui desempenhar bem, houveram alguns problemas na submissão do ocontest que podem ter atrapalhado um pouco o andamento da prova. No final, consegui resolver muitos problemas, mas acredito que com mais tempo poderia ter resolvido os problemas B2 e D.
 
+Links:
+[Código](https://github.com/pkaiki/MAC0214/tree/main/Meta%20Hackercup/Round%201)
+
 ----
 
-## 20 de outubro de 2023 - 2020-2021 ICPC Southwestern European Regional Contest (SWERC 2020) - 10 horas (5h + 5h upsolve)
+## 20 de outubro de 2023 - [2020-2021 ICPC Southwestern European Regional Contest (SWERC 2020)](https://codeforces.com/gym/103081) - 10 horas (5h + 5h upsolve)
+
+Links:
+[Código](https://github.com/pkaiki/MAC0214/tree/main/Grupo/2020-2021%20ICPC%20Southwestern%20European%20Regional%20Contest%20(SWERC%202020))
+
 ----
 
 ## 21 de outubro de 2023 - Meta Hacker Cup Round 2 - 3 horas
 
 Acredito que poderia ter desempenhado melhor, apesar de ter conseguido resolver o problema A2, o limite de memória da stack não me permitiu resolver para valores grandes. Acredito que isso prejudicou um pouco o andamento do resto da prova. No final, acredito ter aprendido bastante e estar mais preparado para lidar com essas questões.
+
+Links:
+[Código](https://github.com/pkaiki/MAC0214/tree/main/Meta%20Hackercup/Round%202)
 
 ----
 
@@ -115,21 +150,30 @@ Nesse dia decidimos trocar o contest por uma conversa, falamos sobre o nosso des
 
 ----
 
-## 10 de novembro de 2023 - IX Maratona Mineira - 5 horas
+## 10 de novembro de 2023 - [IX Maratona Mineira](https://codeforces.com/contest/1899) - 5 horas
 
 Simulei esse contest com meu time no gym do codeforces. Nesse dia, decidimos tentar fazer um contest mais fácil (nível 3 estrelas do codeforces) por sugestão do Otavio. Acredito que desempanhamos bem, mesmo considerando que o contest estava mais fácil. Em geral, nossas 3 primeiras horas de prova se desenvolveram muito bem, conseguimos nos organizar, pensar rápido, e passar vários problemas. Nas ultimas 2 horas o ritmo diminuiu um pouco, mas, ainda assim, acredito que não fomos mal.
 
+Links:
+[Código](https://github.com/pkaiki/MAC0214/tree/main/Grupo/IX%20Maratona%20Mineira)
 
-## 17 de novembro de 2023 - Codeforces Round 909 (Div. 3) - 2 horas
+
+## 17 de novembro de 2023 - [Codeforces Round 909 (Div. 3)](https://codeforces.com/contest/1899) - 2 horas
 
 Acredito que, no geral, fui bem no contest. Comecei bem o contest, mas me enrrolei com o problema C, o que me fez aumentar minha penalidade e também fez com que não sobrasse muito tempo para tentar o problema G. Apesar disso, resolvi uma boa quantidade de problemas.
 
+Links:
+[Código](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20909%20(Div.%203))
+
 ----
 
-## 30 de novembro de 2023 - Codeforces Round 912 (Div. 2) - 4 horas (2h + 2h upsolve)
+## 30 de novembro de 2023 - [Codeforces Round 912 (Div. 2)](https://codeforces.com/contest/1903) - 4 horas (2h + 4h upsolve)
 
 Não fui mal nesse contest, mas também acho que poderia ter ido melhor. Pela primeira vez, comecei pelo problema C. Em seguida, resolvi o problema A no tempo esperado e demorei para ter a ideia do problema B, além de demorar para escrever o código corretamente. Tive a ideia para resolver o problema bem rápido, mas demorei para fazer o código, acredito que a partir de agora quero tentar melhorar minhas habilidades de organização de código e velocidade.
 
-## Total de horas: 96 horas e 30 minutos
+Links:
+[Código](https://github.com/pkaiki/MAC0214/tree/main/Codeforces/Codeforces%20Round%20912%20(Div.%202))
+
+## Total de horas: 98 horas e 30 minutos
 
 Handle no codeforces: [rkaiki](https://codeforces.com/profile/rkaiki)
